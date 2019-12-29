@@ -6,7 +6,7 @@ The folder *htmlColorWheel* contains the web interface files before they are com
 ## htmlColorWheel
 The files needed to create a simple web interface like the following:
 
-![Christmas tree 2019 smartphone interface.jpg](./images/Christmas tree 2019 smartphone interface.jpg)
+![Christmas tree 2019 smartphone interface.jpg](images/Christmas tree 2019 smartphone interface.jpg?raw=true)
 
 the original js file that allow me to create this inyterface was downloaded by this [project on gitHub](https://github.com/NC22/HTML5-Color-Picker)
 
