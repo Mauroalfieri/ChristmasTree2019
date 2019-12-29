@@ -8,5 +8,7 @@ The files needed to create a simple web interface like the following:
 
 ![Christmas tree 2019 smartphone interface.jpg](https://github.com/Mauroalfieri/ChristmasTree2019/blob/master/images/Christmas%20tree%202019%20smartphone%20interface.jpg)
 
-the original js file that allow me to create this inyterface was downloaded by this [project on gitHub](https://github.com/NC22/HTML5-Color-Picker)
+the original js file that allow me to create this inyterface was downloaded by this [project on gitHub](https://github.com/NC22/HTML5-Color-Picker) to which I added some js functions to send the color selected via Ajax to a new html page.
 
+## Arduino sketch
+.. will be added ...
