@@ -12,3 +12,10 @@ the original js file that allow me to create this inyterface was downloaded by t
 
 ## Arduino sketch
 .. will be added ...
+
+## More info
+More info and a complete italian tutorial on my blog:
+
+- [Christmas tree 2019](https://www.mauroalfieri.it/elettronica/christmas-tree-2019.html) (Project intro)
+- [Christmas tree 2019 elettronica](https://www.mauroalfieri.it/elettronica/christmas-tree-2019-elettronica.html) (how to make the electronic part)
+- [Christmas Tree 2019 web Interface](https://www.mauroalfieri.it/elettronica/christmas-tree-2019-rgb-interface.html) (how to create a RGB web interface)
